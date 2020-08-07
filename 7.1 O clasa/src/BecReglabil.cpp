@@ -34,7 +34,7 @@ void BecReglabil::FcatlasutaB75(){                   //  prima functie pentru be
         unsigned short x=0,y,z;        // pentru precizie mai mare puteam folosi x de tip float dar membrii privati sunt short.
         y=Getputerecurenta();
         z=Getputeremaxima();
-        x=((y*S)/z);                         // am foloist formula cu o necunoscuta("regula de 2 simpla")
+        x=((y*S)/z);                         // am foloist formula cu o necunoscuta("regula de 3 simpla")
         cout<<"Bec75 functioneaza la: "<<x<<" % din capacitate"<<endl;}
 void BecReglabil::FcatlasutaB100(){                  // a doua functie pentru bec100
         unsigned short x=0,y,z;
