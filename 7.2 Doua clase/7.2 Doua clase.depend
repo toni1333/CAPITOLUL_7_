@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1596907574 source:i:\proiecte\7.1 o clasa\src\becreglabil.cpp
+	<iostream>
+	"Candelabru.h"
+
+1596908928 i:\proiecte\7.1 o clasa\include\becreglabil.h
+
+1597088048 source:i:\proiecte\7.2 doua clase\main.cpp
+	<iostream>
+	"Candelabru.h"
+
+1597087895 i:\proiecte\7.2 doua clase\include\candelabru.h
+	"BecReglabil.h"
+
+1597088004 source:i:\proiecte\7.2 doua clase\src\candelabru.cpp
+	<iostream>
+	"Candelabru.h"
+
+1596910495 i:\proiecte\7.2 doua clase\include\becreglabil.h
+
+1597087167 source:i:\proiecte\7.2 doua clase\src\becreglabil.cpp
+	<iostream>
+	"BecReglabil.h"
+
