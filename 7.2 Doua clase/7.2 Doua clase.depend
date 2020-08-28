@@ -22,3 +22,20 @@
 	<iostream>
 	"BecReglabil.h"
 
+1597088048 source:i:\github pc\capitolul_7_\7.2 doua clase\main.cpp
+	<iostream>
+	"Candelabru.h"
+
+1598650546 i:\github pc\capitolul_7_\7.2 doua clase\include\candelabru.h
+	"BecReglabil.h"
+
+1596910495 i:\github pc\capitolul_7_\7.2 doua clase\include\becreglabil.h
+
+1597087167 source:i:\github pc\capitolul_7_\7.2 doua clase\src\becreglabil.cpp
+	<iostream>
+	"BecReglabil.h"
+
+1597088004 source:i:\github pc\capitolul_7_\7.2 doua clase\src\candelabru.cpp
+	<iostream>
+	"Candelabru.h"
+

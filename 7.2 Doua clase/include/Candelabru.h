@@ -11,7 +11,9 @@ public:
     void ReduceLumina(unsigned short);
     unsigned short PutereMaximaCandelabru();
     bool StareCandelabru();
-
+    Candelabru(){
+    //ctor
+    }
     ~Candelabru(){
     //dctor
     delete listaBecuri;
